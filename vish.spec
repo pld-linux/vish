@@ -2,7 +2,7 @@ Summary:	Command line interface for Virtual Instrument Software Architecture
 Summary(pl.UTF-8):	Interfejs linii poleceń do Virtual Instrument Software Architecture
 Name:		vish
 Version:	0.0.20130714
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries
 # upstream (pre)releases
